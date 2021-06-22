@@ -1,0 +1,27 @@
+// Documentation at https://www.sublimetext.com/docs/themes.html
+{
+	"variables":
+	{
+	},
+	"rules":
+	[
+						{
+			"class": "tabset_control",
+			"layer0.opacity": 1.0,
+			"content_margin": [0, 0, 0, 0],
+			"tab_height": 28,
+		},
+			{
+			"class": "tab_label",
+			"font.face": "Iosevka SS09",
+			"font.size": "var(font_size_sm)",
+		},
+				{
+			"class": "label_control",
+			// "fg": "color(var(--background) blend(white 10%))",
+			"font.face": "var(font_face)",
+			"font.size": 10
+		},
+
+	]
+}

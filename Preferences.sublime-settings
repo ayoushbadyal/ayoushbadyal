@@ -1,0 +1,21 @@
+{
+		"theme": "Adaptive.sublime-theme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"overlay_scroll_bars": "enabled",
+	"highlight_modified_tabs": true,
+	"highlight_line": true,
+	"font_size": 10,
+	"font_face": "Comic Neue Bold",
+	"font_face": "Iosevka SS09",
+	// "font_face": "JetBrains Mono Regular",
+
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (light).sublime-color-scheme",
+	"font_options":
+	[
+		"no_italic"
+	],
+	"show_full_path": false,
+}

@@ -1,0 +1,6 @@
+[
+	{ "caption": "file_handler", "command": "file_handling_pro" },
+	{ "caption": "chrome", "command": "open_dir","args": {
+		"dir": "C:/Program Files/Google/Chrome/Application/chrome.exe", 
+	}, },
+]

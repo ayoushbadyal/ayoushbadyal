@@ -1,0 +1,15 @@
+// Documentation at https://www.sublimetext.com/docs/color_schemes.html
+{
+	"variables":
+	{
+	},
+	"globals":
+	{
+		"caret": "orange",
+		"gutter": "#fdf6e3",
+	},
+	"rules":
+	[
+		
+	]
+}
