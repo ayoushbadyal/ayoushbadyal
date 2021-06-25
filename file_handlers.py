@@ -85,7 +85,7 @@ class file_handlerCommand(sublime_plugin.WindowCommand):
 		# after the instance makes the call the `next_input` method takes over the 
 
 		global file_path
-		file_path='://Users//Ayoush//AppData//Roaming//Sublime Text//Packages'
+		file_path='C://Users//Ayoush//AppData//Roaming//Sublime Text//Packages'
 		begin_list=os.listdir(file_path)
 		return file_system_inputhandler(begin_list)
 	
